@@ -1,2 +1,2 @@
 # github-actions-nodejs-test
-[![Build Status](https://github.com/yudhatamaaditiyara/github-actions-nodejs-test/workflows/ci/badge.svg?branch=master)](https://github.com/yudhatamaaditiyara/github-actions-nodejs-test/actions)
+[![Build Status](https://github.com/yudhatamaaditiyara/github-actions-nodejs-test/workflows/CI/badge.svg?branch=master)](https://github.com/yudhatamaaditiyara/github-actions-nodejs-test/actions)
