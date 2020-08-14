@@ -1,0 +1,15 @@
+{
+  "name": "github-actions-nodejs-test",
+  "description": "github-actions-nodejs-test",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudhatamaaditiyara/github-actions-nodejs-test.git"
+  },
+  "devDependencies": {
+    "jest": "^26.4.0"
+  },
+  "scripts": {
+    "test": "jest -c=test/jest.config.js"
+  }
+}
