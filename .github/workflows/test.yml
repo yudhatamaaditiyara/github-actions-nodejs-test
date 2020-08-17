@@ -1,15 +1,16 @@
-name: CI
+name: test
 
 on: [push]
 
 jobs:
   build:
+    name: Node.js ${{matrix.node-version}}
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
         node-version: [12.x, 13.x, 14.x]
-    
+
     steps:
       - name: Clone repository
         uses: actions/checkout@v1
