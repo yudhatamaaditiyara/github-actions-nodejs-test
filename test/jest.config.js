@@ -1,6 +1,4 @@
 module.exports = {
-  clearMocks: true,
-  coverageProvider: 'v8',
-  testEnvironment: 'node',
-  rootDir: './src/'
+  rootDir: '../',
+  testEnvironment: 'node'
 };
